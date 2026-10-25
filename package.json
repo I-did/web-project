@@ -17,8 +17,8 @@
       "eslint --max-warnings=0",
       "prettier --write"
     ],
-    "app/frontend/**/*.{css,scss,json,md}": [
-      "prettier --write"
+    "app/frontend/**/*": [
+      "prettier --write --ignore-unknown"
     ],
     "*.{json,md,yml,yaml}": [
       "prettier --write"
