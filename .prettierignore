@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+coverage
+docs
+README.md
+CONTRIBUTING.md
+package-lock.json
+app/directus
