@@ -8,6 +8,9 @@
   - [Преимущества](#преимущества-проекта)
   - [Амбиции](#амбиции)
   - [SMART-цель](#smart-цель)
+- [Спецификация](https://github.com/I-did/web-project/blob/main/docs/spec.md)
+- [Стратегия ветвления](https://github.com/I-did/web-project/blob/main/docs/github-strategy.md)
+- [User Stories](https://github.com/I-did/web-project/blob/main/docs/user-stories.md)
 
 ## Описание проекта
 
@@ -58,6 +61,3 @@ MVP -> B2C-продукт, марафон как платный разовый �
 - A (достижимая) - команда из 4 ролей, ограниченные ресурсы, упор на анализ, архитектуру и проверяемость
 - R (релевантная) - сделать персонализированный план питания и тренировок доступным без нутрициолога и тренера
 - T (время) - 12 недель
-
-[Спецификация](https://github.com/I-did/web-project/blob/main/docs/spec.md)
-
