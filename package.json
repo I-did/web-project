@@ -7,9 +7,22 @@
     "doc": "docs"
   },
   "scripts": {
-    "lint": "eslint . --ext .js,.vue --no-error-on-unmatched-pattern",
+    "lint": "eslint . --ext .js,.ts,.vue --no-error-on-unmatched-pattern",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "app/frontend/**/*.{js,ts,vue}": [
+      "eslint --max-warnings=0",
+      "prettier --write"
+    ],
+    "app/frontend/**/*.{css,scss,json,md}": [
+      "prettier --write"
+    ],
+    "*.{json,md,yml,yaml}": [
+      "prettier --write"
+    ]
   },
   "repository": {
     "type": "git",
@@ -24,10 +37,14 @@
   },
   "homepage": "https://github.com/I-did/web-project#readme",
   "devDependencies": {
+    "@typescript-eslint/parser": "^8.72.0",
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-vue": "^9.33.0",
-    "prettier": "^3.9.10"
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.9.10",
+    "typescript": "^6.0.3"
   },
   "private": true
 }
