@@ -2,15 +2,6 @@ name: CI
 
 on:
   pull_request:
-    paths:
-      - 'app/frontend/**'
-      - 'package.json'
-      - 'package-lock.json'
-      - '.eslintrc.json'
-      - '.eslintignore'
-      - '.prettierrc'
-      - '.prettierignore'
-      - '.github/workflows/ci.yml'
 
 concurrency:
   group: ci-${{ github.head_ref || github.ref }}
@@ -23,18 +14,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check for relevant changes
+        id: changes
+        uses: dorny/paths-filter@v3
+        with:
+          filters: |
+            relevant:
+              - 'app/frontend/**'
+              - 'package.json'
+              - 'package-lock.json'
+              - '.eslintrc.json'
+              - '.eslintignore'
+              - '.prettierrc'
+              - '.prettierignore'
+              - '.github/workflows/ci.yml'
+
       - uses: actions/setup-node@v4
+        if: steps.changes.outputs.relevant == 'true'
         with:
           node-version: 20
           cache: npm
 
       - name: Install dependencies
+        if: steps.changes.outputs.relevant == 'true'
         run: npm ci
         env:
           HUSKY: 0
 
       - name: ESLint (check only)
+        if: steps.changes.outputs.relevant == 'true'
         run: npm run lint -- --max-warnings=0
 
       - name: Prettier (check only)
+        if: steps.changes.outputs.relevant == 'true'
         run: npm run format:check
