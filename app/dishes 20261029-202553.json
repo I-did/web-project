@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Томаты со страчателлой и песто",
+    "calories": 200,
+    "ingredients": [2, 3, 4],
+    "dish_types": [2],
+    "dish_targets": [1, 2],
+    "dish_categories": [2]
+  }
+]

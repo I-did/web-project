@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Завтрак",
+    "slug": null
+  },
+  {
+    "id": 2,
+    "name": "Перекус 1",
+    "slug": null
+  },
+  {
+    "id": 3,
+    "name": "Обед",
+    "slug": null
+  },
+  {
+    "id": 4,
+    "name": "Перекус 2",
+    "slug": null
+  },
+  {
+    "id": 5,
+    "name": "Ужин",
+    "slug": null
+  }
+]
