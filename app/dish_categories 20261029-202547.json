@@ -1,0 +1,62 @@
+[
+  {
+    "id": 6,
+    "name": "Мясо",
+    "slug": null,
+    "parent": null
+  },
+  {
+    "id": 7,
+    "name": "Говядина/телятина",
+    "slug": null,
+    "parent": 6
+  },
+  {
+    "id": 8,
+    "name": "Индейка",
+    "slug": null,
+    "parent": 6
+  },
+  {
+    "id": 9,
+    "name": "Курица",
+    "slug": null,
+    "parent": 6
+  },
+  {
+    "id": 10,
+    "name": "Субпродукты",
+    "slug": null,
+    "parent": 6
+  },
+  {
+    "id": 11,
+    "name": "Молочные продукты",
+    "slug": null,
+    "parent": null
+  },
+  {
+    "id": 12,
+    "name": "Йогурт",
+    "slug": null,
+    "parent": 11
+  },
+  {
+    "id": 13,
+    "name": "Кефир",
+    "slug": null,
+    "parent": 11
+  },
+  {
+    "id": 14,
+    "name": "Коровье молоко",
+    "slug": null,
+    "parent": 11
+  },
+  {
+    "id": 15,
+    "name": "Творог",
+    "slug": null,
+    "parent": 11
+  }
+]

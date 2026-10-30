@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Яйцо куриное",
+    "slug": null
+  },
+  {
+    "id": 2,
+    "name": "Овсяная крупа",
+    "slug": null
+  },
+  {
+    "id": 3,
+    "name": "Сыр",
+    "slug": null
+  },
+  {
+    "id": 4,
+    "name": "Авокадо",
+    "slug": null
+  },
+  {
+    "id": 5,
+    "name": "Зелень",
+    "slug": null
+  },
+  {
+    "id": 6,
+    "name": "Страчателла",
+    "slug": null
+  },
+  {
+    "id": 7,
+    "name": "Помидор",
+    "slug": null
+  },
+  {
+    "id": 8,
+    "name": "Соус песто",
+    "slug": null
+  }
+]
