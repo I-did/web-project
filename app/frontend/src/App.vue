@@ -3,7 +3,7 @@ import { ref, onMounted } from 'vue';
 import { createDirectus, rest, readItems } from '@directus/sdk';
 
 // Инициализация клиента (лучше вынести в отдельный файл)
-const directus = createDirectus('http://localhost:8080/').with(rest());
+const directus = createDirectus('http://localhost:8055/').with(rest());
 
 const dishes = ref([]);
 const loading = ref(false);
