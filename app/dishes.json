@@ -1,0 +1,11381 @@
+[
+	{
+		"name": "Томаты со страчателлой и песто",
+		"calories": 200,
+		"ingredients": [
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Страчателла",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Соус песто",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Разрезать томаты крупными кубиками, посолить, поперчить, добавить соус песто, перемешать.\n2. Выложить сыр страчателла.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Овсяная каша на молоке",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Каша овсяная",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Довести молоко до кипения.\n2. Всыпать овсяную кашу, варить 5–7 минут, помешивая.\n3. Снять с огня, добавить сливочное масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Овсянка с семенами льна",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Каша овсяная",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко овсяное",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Семя льняное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сварить овсяную кашу на овсяном молоке.\n2. Перед подачей добавить семена льна.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Овсянка с кунжутом на миндальном молоке",
+		"calories": 290,
+		"ingredients": [
+			{
+				"name": "Каша овсяная",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко миндальное",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Семя кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сварить кашу на миндальном молоке.\n2. Посыпать кунжутом перед подачей.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Кукурузная каша на молоке",
+		"calories": 310,
+		"ingredients": [
+			{
+				"name": "Каша кукурузная",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Вскипятить молоко.\n2. Всыпать кукурузную кашу, варить 8 минут.\n3. Добавить масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Гречневая каша с маслом",
+		"calories": 280,
+		"ingredients": [
+			{
+				"name": "Каша гречневая",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Отварить гречневую кашу.\n2. Заправить сливочным маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Рисовая каша на молоке",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Каша рисовая",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 200,
+				"units": "мл."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рис промыть.\n2. Варить на молоке 20 минут на медленном огне.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Пшённая каша с тыквой",
+		"calories": 290,
+		"ingredients": [
+			{
+				"name": "Каша пшённая",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Тыква",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 100,
+				"units": "мл."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тыкву нарезать кубиком.\n2. Варить пшённую кашу с тыквой на молоке 25 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Манная каша",
+		"calories": 260,
+		"ingredients": [
+			{
+				"name": "Каша манная",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. В кипящее молоко тонкой струйкой всыпать манку.\n2. Варить 5 минут, добавить масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Льняная каша на кокосовом молоке",
+		"calories": 260,
+		"ingredients": [
+			{
+				"name": "Каша льняная",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко кокосовое",
+				"amount": 200,
+				"units": "мл."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кокосовое молоко подогреть.\n2. Всыпать льняную кашу, проварить 3 минуты.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Киноа на молоке",
+		"calories": 340,
+		"ingredients": [
+			{
+				"name": "Каша киноа",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 200,
+				"units": "мл."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Киноа промыть.\n2. Варить на молоке 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Полбяная каша с маслом",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Каша полбяная",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 8,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Полбу отварить 20 минут.\n2. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Амарантовая каша на овсяном молоке",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Каша амарантовая",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко овсяное",
+				"amount": 200,
+				"units": "мл."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Амарантовую кашу отварить 15 минут.\n2. Разбавить овсяным молоком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Омлет с помидорами",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Взбить яйца.\n2. Обжарить помидоры на оливковом масле.\n3. Залить яйцами, готовить под крышкой 3 минуты.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Омлет с сыром",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Сыр твёрдый",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Взбить яйца.\n2. Вылить на разогретое масло.\n3. Посыпать тёртым сыром, накрыть крышкой.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Яичница с помидорами",
+		"calories": 240,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить ломтики помидоров.\n2. Вбить яйца, посолить, готовить до готовности белка.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Скрэмбл с шампиньонами",
+		"calories": 240,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Гриб шампиньон",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить нарезанные шампиньоны.\n2. Влить взбитые яйца, помешивая довести до готовности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Омлет со шпинатом",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Шпинат",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Шпинат слегка припустить.\n2. Залить взбитыми яйцами, готовить под крышкой.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Яичница с помидорами черри",
+		"calories": 230,
+		"ingredients": [
+			{
+				"name": "Яйцо перепелиное",
+				"amount": 5,
+				"units": "шт."
+			},
+			{
+				"name": "Помидор черри",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить половинки черри.\n2. Вбить перепелиные яйца, готовить 3 минуты.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Омлет с брокколи",
+		"calories": 230,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Капуста брокколи",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Брокколи разобрать на соцветия, припустить.\n2. Залить яйцами, готовить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Скрэмбл с тофу",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Тофу",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Лук зелёный",
+				"amount": 20,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тофу размять вилкой.\n2. Обжарить с яйцом и зелёным луком 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Греческий йогурт с семечками",
+		"calories": 270,
+		"ingredients": [
+			{
+				"name": "Йогурт греческий",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Семя тыквенное",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Семя подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Выложить йогурт в миску.\n2. Посыпать тыквенными и подсолнечными семечками.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 12
+				}
+			}
+		]
+	},
+	{
+		"name": "Кефир с семенами льна",
+		"calories": 180,
+		"ingredients": [
+			{
+				"name": "Кефир",
+				"amount": 250,
+				"units": "мл."
+			},
+			{
+				"name": "Семя льняное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. В стакан кефира добавить семена льна.\n2. Размешать и дать настояться 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Творог с йогуртом и семенами",
+		"calories": 260,
+		"ingredients": [
+			{
+				"name": "Творог",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Йогурт натуральный",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Семя кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Смешать творог с йогуртом.\n2. Посыпать кунжутом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 12
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Творог с зеленью",
+		"calories": 180,
+		"ingredients": [
+			{
+				"name": "Творог",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Лук зелёный",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Творог размять.\n2. Добавить рубленый укроп и зелёный лук.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Йогурт с авокадо",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Йогурт натуральный",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Авокадо",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Авокадо нарезать кубиком.\n2. Смешать с йогуртом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 12
+				}
+			}
+		]
+	},
+	{
+		"name": "Смузи с авокадо и шпинатом",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Авокадо",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Шпинат",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко овсяное",
+				"amount": 200,
+				"units": "мл."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Все ингредиенты поместить в блендер.\n2. Взбить до однородности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Смузи кефирный со шпинатом",
+		"calories": 130,
+		"ingredients": [
+			{
+				"name": "Кефир",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Шпинат",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Пробить в блендере кефир, шпинат и огурец.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Смузи с кокосовым молоком и авокадо",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Молоко кокосовое",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Авокадо",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Семя льняное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Взбить в блендере кокосовое молоко, авокадо и семена льна.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Кефир с огурцом и укропом",
+		"calories": 150,
+		"ingredients": [
+			{
+				"name": "Кефир",
+				"amount": 250,
+				"units": "мл."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Огурец натереть на тёрке.\n2. Смешать с кефиром и рубленым укропом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Йогурт с семенами подсолнечника",
+		"calories": 260,
+		"ingredients": [
+			{
+				"name": "Йогурт греческий",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Семя подсолнечное",
+				"amount": 15,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Йогурт выложить в чашку.\n2. Посыпать семечками.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 12
+				}
+			}
+		]
+	},
+	{
+		"name": "Сырники",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Творог",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Творог, яйцо и муку смешать.\n2. Сформировать сырники и обжарить на масле с двух сторон.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Творожная запеканка",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Творог",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Каша манная",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Смешать творог, яйца и манку.\n2. Выложить в форму и запекать 30 минут при 180°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Ленивые вареники",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Творог",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 40,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Творог, яйцо и муку вымесить.\n2. Скатать колбаску, нарезать, отварить 1–2 минуты.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Овсяноблин с творогом",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Каша овсяная",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Творог",
+				"amount": 100,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Измельчить овсянку, смешать с яйцами.\n2. Обжарить блин с двух сторон.\n3. Завернуть творог.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Овсяноблин с сыром",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Каша овсяная",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Сыр твёрдый",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овсянку перебить в блендере с яйцами.\n2. Обжарить блин.\n3. Натереть сыр, сложить пополам.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Оладьи из кабачка",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Кабачок",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кабачок натереть, отжать.\n2. Добавить яйца и муку.\n3. Обжарить оладьи на масле.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Драники",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Картофель",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 15,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Картофель натереть, отжать.\n2. Смешать с яйцом и мукой.\n3. Обжарить на разогретом масле.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Оладьи из тыквы",
+		"calories": 330,
+		"ingredients": [
+			{
+				"name": "Тыква",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тыкву натереть.\n2. Смешать с яйцами и мукой.\n3. Обжарить оладьи.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Сырная лепёшка с зеленью",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Сыр твёрдый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сыр натереть, смешать с яйцом и мукой.\n2. Обжарить лепёшку с двух сторон.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Авокадо с яйцом пашот",
+		"calories": 280,
+		"ingredients": [
+			{
+				"name": "Авокадо",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Авокадо нарезать ломтиками.\n2. Сварить яйцо пашот.\n3. Подать на подушке из салата.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Борщ с говядиной",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Свёкла",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Капуста белокочанная",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Говядина",
+				"amount": 150,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сварить бульон из говядины.\n2. Добавить картофель, свёклу, капусту, пассерованные морковь и лук.\n3. Варить 20 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Щи из свежей капусты с курицей",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Капуста белокочанная",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Курица",
+				"amount": 100,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу отварить.\n2. Добавить капусту, картофель, пассерованные морковь и лук.\n3. Варить до готовности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Рассольник с говядиной",
+		"calories": 420,
+		"ingredients": [
+			{
+				"name": "Перловка",
+				"amount": 40,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец маринованный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Говядина",
+				"amount": 100,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Отварить перловку и говядину.\n2. Добавить картофель, пассерованные овощи и нарезанные солёные огурцы.\n3. Проварить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Солянка мясная",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Курица",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец маринованный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Оливка",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сварить бульон из двух видов мяса.\n2. Добавить картофель, солёные огурцы, помидоры, оливки.\n3. Проварить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Куриный бульон с овощами",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 100,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу залить водой и варить 40 минут.\n2. Добавить картофель, морковь, лук.\n3. Варить до готовности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Грибной суп с картофелем",
+		"calories": 280,
+		"ingredients": [
+			{
+				"name": "Гриб шампиньон",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить шампиньоны с луком.\n2. Добавить картофель и морковь, залить водой.\n3. Варить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Крем-суп из тыквы",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Тыква",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко кокосовое",
+				"amount": 100,
+				"units": "мл."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тыкву, морковь и лук потушить.\n2. Влить кокосовое молоко, пробить блендером.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Крем-суп из брокколи",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Капуста брокколи",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 100,
+				"units": "мл."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Брокколи и лук отварить.\n2. Добавить молоко и сливочное масло, пробить блендером.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Гороховый суп со свининой",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Горох сушёный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Свинина",
+				"amount": 100,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Замочить горох на несколько часов.\n2. Сварить бульон из свинины.\n3. Добавить горох, картофель и пассерованные овощи.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Чечевичный суп",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Чечевица красная",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Промытую чечевицу залить водой.\n2. Добавить пассерованные овощи и помидор.\n3. Варить 25 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Суп из нута",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Нут",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Замоченный нут отварить до мягкости.\n2. Добавить пассерованные овощи и помидор.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Фасолевый суп",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Фасоль красная",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Фасоль замочить заранее.\n2. Отварить с картофелем и пассерованными овощами.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Уха",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Рыба белая",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рыбу нарезать крупными кусками.\n2. Сварить с картофелем, морковью и луком.\n3. В конце добавить укроп.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Рыбный суп с лососем",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Лосось",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Лосось нарезать кусочками.\n2. Сварить овощной бульон.\n3. Добавить рыбу, варить 10 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 18
+				}
+			}
+		]
+	},
+	{
+		"name": "Окрошка на кефире",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Кефир",
+				"amount": 300,
+				"units": "мл."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Редис",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Лук зелёный",
+				"amount": 20,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Картофель и яйцо отварить, нарезать кубиком.\n2. Добавить огурец, редис, зелень.\n3. Залить кефиром.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Греческий салат",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Помидор",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр фета",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Оливка",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овощи нарезать крупно.\n2. Добавить фету и оливки.\n3. Заправить оливковым маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат с тунцом",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Тунец",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тунец размять вилкой.\n2. Смешать с нарезанными овощами.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат с креветками и авокадо",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Креветка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Салат романо",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор черри",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Авокадо",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Креветки отварить и остудить.\n2. Смешать с романо, черри и авокадо.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат с курицей и рукколой",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Руккола",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор черри",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр пармезан",
+				"amount": 20,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу отварить или запечь, нарезать.\n2. Смешать с рукколой и черри.\n3. Посыпать пармезаном, заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат Цезарь",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Салат романо",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр пармезан",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу обжарить, нарезать.\n2. Романо порвать руками.\n3. Добавить яйцо и пармезан.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат из свежих овощей",
+		"calories": 200,
+		"ingredients": [
+			{
+				"name": "Помидор",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук красный",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овощи нарезать.\n2. Добавить укроп, заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Салат из огурцов и редиса",
+		"calories": 150,
+		"ingredients": [
+			{
+				"name": "Огурец",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Редис",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук зелёный",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Сметана",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Огурец и редис нарезать.\n2. Добавить зелёный лук, заправить сметаной.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат из помидоров с моцареллой",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр моцарелла",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Базилик",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Помидоры и моцареллу нарезать кружками.\n2. Переложить базиликом.\n3. Полить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат из свёклы с сыром",
+		"calories": 280,
+		"ingredients": [
+			{
+				"name": "Свёкла",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр фета",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Свёклу отварить и натереть.\n2. Добавить фету и чеснок.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Винегрет",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Свёкла",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец маринованный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 15,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Отварить свёклу, картофель, морковь, нарезать кубиком.\n2. Добавить солёный огурец и лук.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Капустный салат",
+		"calories": 150,
+		"ingredients": [
+			{
+				"name": "Капуста белокочанная",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук зелёный",
+				"amount": 20,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Капусту тонко нашинковать.\n2. Морковь натереть.\n3. Добавить зелёный лук и масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Салат из моркови с чесноком",
+		"calories": 180,
+		"ingredients": [
+			{
+				"name": "Морковь",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Сметана",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Морковь натереть на крупной тёрке.\n2. Добавить чеснок и сметану.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Салат с авокадо и помидорами",
+		"calories": 280,
+		"ingredients": [
+			{
+				"name": "Авокадо",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук красный",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Авокадо и помидоры нарезать.\n2. Добавить красный лук.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Тёплый салат с говядиной",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Руккола",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор черри",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину обжарить до готовности, нарезать.\n2. Смешать с рукколой и черри.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Тёплый салат с грибами",
+		"calories": 200,
+		"ingredients": [
+			{
+				"name": "Гриб шампиньон",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Лук красный",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Шампиньоны обжарить.\n2. Выложить на листья салата.\n3. Добавить красный лук и масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Овощное рагу",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Кабачок",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Баклажан",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 15,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овощи нарезать кубиком.\n2. Тушить на масле 25 минут под крышкой.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Рататуй",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Баклажан",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 15,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овощи нарезать кружками.\n2. Выложить слоями в форму.\n3. Запекать 40 минут при 180°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Овощи на гриле",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Баклажан",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овощи нарезать пластинами.\n2. Обжарить на гриле по 3–4 минуты с каждой стороны.\n3. Полить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Запечённые овощи",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Тыква",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Овощи нарезать крупно.\n2. Выложить на противень.\n3. Запекать 35 минут при 200°C, сбрызнув маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Брокколи на пару с чесноком",
+		"calories": 130,
+		"ingredients": [
+			{
+				"name": "Капуста брокколи",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Брокколи готовить на пару 5 минут.\n2. Заправить маслом и чесноком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Цветная капуста запечённая с сыром",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Капуста цветная",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр твёрдый",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Капусту отварить 5 минут.\n2. Посыпать сыром и запечь 15 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Спаржа на гриле",
+		"calories": 150,
+		"ingredients": [
+			{
+				"name": "Спаржа",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Спаржу смазать маслом.\n2. Обжарить на гриле 4 минуты.\n3. Посыпать чесноком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Стручковая фасоль с чесноком",
+		"calories": 160,
+		"ingredients": [
+			{
+				"name": "Фасоль стручковая",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Фасоль отварить 3 минуты.\n2. Обжарить с чесноком на масле.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Шпинат тушёный с чесноком",
+		"calories": 180,
+		"ingredients": [
+			{
+				"name": "Шпинат",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Шпинат выложить на сковороду.\n2. Тушить с маслом и чесноком 3 минуты.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Капуста тушёная с овощами",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Капуста белокочанная",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Капусту нашинковать.\n2. Тушить с морковью, луком и помидорами 30 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Баклажаны с помидорами и чесноком",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Баклажан",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 15,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Баклажаны обжарить.\n2. Добавить помидоры и тушить 10 минут.\n3. В конце добавить чеснок.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Кабачки в сметане",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Кабачок",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Сметана",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кабачки нарезать кружками.\n2. Обжарить, добавить сметану и чеснок.\n3. Тушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Тыква запечённая с тимьяном",
+		"calories": 200,
+		"ingredients": [
+			{
+				"name": "Тыква",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тыкву нарезать ломтиками.\n2. Смазать маслом, посыпать тимьяном.\n3. Запекать 25 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Картофель запечённый с розмарином",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Картофель",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Картофель нарезать дольками.\n2. Смешать с маслом и розмарином.\n3. Запекать 35 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Батат запечённый",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Батат",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Батат нарезать кубиком.\n2. Сбрызнуть маслом.\n3. Запекать 30 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Хумус из нута",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Нут",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 20,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Семя кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Отваренный нут пробить в блендере.\n2. Добавить масло, чеснок и кунжут.\n3. Взбить до однородности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Чечевица с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Чечевица зелёная",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Чечевицу отварить.\n2. Обжарить овощи.\n3. Смешать и тушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Красная фасоль с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Фасоль красная",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Фасоль отварить.\n2. Обжарить овощи.\n3. Соединить и потушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Нут с овощами",
+		"calories": 420,
+		"ingredients": [
+			{
+				"name": "Нут",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Нут отварить.\n2. Обжарить кабачок, лук и помидор.\n3. Соединить и прогреть 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Маш с морковью",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Маш",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Маш отварить.\n2. Обжарить морковь и лук.\n3. Соединить и потушить.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Соя с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Соя",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сою отварить.\n2. Обжарить овощи.\n3. Смешать и потушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Тофу с брокколи и перцем",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Тофу",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Капуста брокколи",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тофу обжарить до золотистой корочки.\n2. Добавить брокколи и перец.\n3. Готовить 5 минут с кунжутным маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Сейтан с овощами",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Сейтан",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сейтан нарезать и обжарить.\n2. Добавить кабачок и перец.\n3. Готовить 7 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Темпе с брокколи",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Темпе",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Капуста брокколи",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Темпе нарезать кубиком.\n2. Обжарить с брокколи и морковью.\n3. В конце добавить кунжутное масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Горох с луком",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Горох сушёный",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Горох замочить и отварить.\n2. Обжарить лук.\n3. Соединить и потушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Куриная грудка на гриле",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Грудку разрезать вдоль.\n2. Обжарить на гриле 5 минут с каждой стороны.\n3. Посыпать розмарином.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица с гречкой",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Каша гречневая",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу обжарить.\n2. Отварить гречку.\n3. Соединить и добавить масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица с рисом",
+		"calories": 520,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу нарезать и обжарить.\n2. Рис отварить.\n3. Подать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица с булгуром",
+		"calories": 520,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Булгур",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Булгур отварить.\n2. Курицу обжарить с морковью и луком.\n3. Смешать и подать.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Куриные бёдра запечённые",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Бёдра натереть чесноком и тимьяном.\n2. Запекать 40 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Куриные котлеты",
+		"calories": 480,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу перекрутить.\n2. Добавить яйцо, муку, лук.\n3. Сформировать котлеты и обжарить.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Куриное филе с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Филе обжарить.\n2. Добавить кабачок и перец.\n3. Тушить 10 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица с картофелем",
+		"calories": 550,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу и картофель нарезать.\n2. Обжарить.\n3. Тушить 20 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Куриный плов",
+		"calories": 650,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 100,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу обжарить с луком и морковью.\n2. Добавить рис и воду.\n3. Томить под крышкой 25 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Индейка с рисом",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Индейка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Рис бурый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Индейку обжарить.\n2. Рис отварить.\n3. Соединить и добавить масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 8
+				}
+			}
+		]
+	},
+	{
+		"name": "Индейка с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Индейка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Баклажан",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Индейку нарезать и обжарить.\n2. Добавить овощи.\n3. Тушить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 8
+				}
+			}
+		]
+	},
+	{
+		"name": "Индейка с киноа",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Индейка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Каша киноа",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Киноа отварить.\n2. Индейку обжарить.\n3. Соединить и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 8
+				}
+			}
+		]
+	},
+	{
+		"name": "Индейка запечённая",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Индейка",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Филе индейки натереть специями.\n2. Запекать 30 минут при 190°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 8
+				}
+			}
+		]
+	},
+	{
+		"name": "Утиная грудка",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Утка",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Грудку надрезать кожу.\n2. Обжарить кожей вниз 8 минут.\n3. Довести в духовке 8 минут при 180°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Утка с гречкой",
+		"calories": 600,
+		"ingredients": [
+			{
+				"name": "Утка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Каша гречневая",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Утку обжарить с луком.\n2. Отварить гречку.\n3. Соединить и подать.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Гусь с тушёной капустой",
+		"calories": 600,
+		"ingredients": [
+			{
+				"name": "Гусь",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Капуста белокочанная",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Гуся обжарить.\n2. Капусту тушить с луком.\n3. Соединить и прогреть.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Кролик тушёный",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Кролик",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кролика нарезать.\n2. Обжарить с овощами.\n3. Тушить 40 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Перепёлка запечённая",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Перепёлка",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тушку натереть специями.\n2. Запекать 30 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Куриные крылья запечённые",
+		"calories": 550,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Крылья натереть чесноком и тимьяном.\n2. Запекать 35 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица в кефире",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кефир",
+				"amount": 100,
+				"units": "мл."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу замариновать в кефире с чесноком.\n2. Обжарить до готовности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Стейк из говядины",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Стейк обсушить.\n2. Обжарить по 3 минуты с каждой стороны.\n3. Дать отдохнуть 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Говядина тушёная с овощами",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину нарезать.\n2. Обжарить с овощами.\n3. Тушить 1,5 часа на медленном огне.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Говядина с картофелем",
+		"calories": 600,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину обжарить.\n2. Добавить картофель, лук, морковь.\n3. Тушить 40 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Бефстроганов",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Сметана",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину нарезать соломкой.\n2. Обжарить с луком.\n3. Добавить сметану, тушить 10 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Гуляш из говядины",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину нарезать кубиком.\n2. Обжарить с луком и морковью.\n3. Добавить помидоры, тушить 1 час.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Котлеты из говядины",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину перекрутить.\n2. Смешать с яйцом, мукой и луком.\n3. Обжарить котлеты с двух сторон.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Телятина запечённая",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Телятина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Телятину натереть специями.\n2. Запекать 40 минут при 190°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Телятина с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Телятина",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Телятину обжарить.\n2. Добавить овощи.\n3. Тушить 30 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Телятина с рисом",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Телятина",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Телятину обжарить с морковью и луком.\n2. Рис отварить.\n3. Соединить.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Баранина с булгуром",
+		"calories": 600,
+		"ingredients": [
+			{
+				"name": "Баранина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Булгур",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Баранину обжарить.\n2. Булгур отварить.\n3. Смешать с морковью и луком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Баранина с овощами",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Баранина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Баклажан",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Баранину обжарить.\n2. Добавить баклажан, перец и помидоры.\n3. Тушить 40 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Шашлык из свинины",
+		"calories": 550,
+		"ingredients": [
+			{
+				"name": "Свинина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Свинину замариновать с луком.\n2. Нанизать с перцем на шампуры.\n3. Обжарить на гриле до готовности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Свинина с картофелем",
+		"calories": 650,
+		"ingredients": [
+			{
+				"name": "Свинина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Свинину обжарить.\n2. Добавить картофель, морковь, лук.\n3. Тушить 40 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Свиные котлеты",
+		"calories": 600,
+		"ingredients": [
+			{
+				"name": "Свинина",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Свинину перекрутить.\n2. Смешать с яйцом, мукой и луком.\n3. Обжарить котлеты.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Медальоны из свинины",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Свинина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Свинину нарезать медальонами.\n2. Обжарить по 4 минуты с каждой стороны.\n3. Посыпать розмарином.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			}
+		]
+	},
+	{
+		"name": "Лосось на гриле",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Лосось",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Стейк лосося обсушить.\n2. Обжарить на гриле по 4 минуты с каждой стороны.\n3. Посыпать розмарином.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 18
+				}
+			}
+		]
+	},
+	{
+		"name": "Лосось с рисом",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Лосось",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Лосось запечь.\n2. Рис отварить.\n3. Подать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 18
+				}
+			}
+		]
+	},
+	{
+		"name": "Лосось с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Лосось",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Лосось запечь в фольге.\n2. Кабачок и помидоры обжарить.\n3. Подать вместе.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 18
+				}
+			}
+		]
+	},
+	{
+		"name": "Форель запечённая",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Форель",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тушку форели посолить, поперчить.\n2. Запекать 25 минут при 190°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 18
+				}
+			}
+		]
+	},
+	{
+		"name": "Форель с киноа",
+		"calories": 480,
+		"ingredients": [
+			{
+				"name": "Форель",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Каша киноа",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Киноа отварить.\n2. Форель обжарить.\n3. Подать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 18
+				}
+			}
+		]
+	},
+	{
+		"name": "Тунец с рисом",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Тунец",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Рис бурый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тунец обжарить.\n2. Рис отварить.\n3. Заправить кунжутным маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Тунец на гриле",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Тунец",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Стейк тунца обсушить.\n2. Обжарить по 2 минуты с каждой стороны.\n3. Сбрызнуть маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Треска запечённая",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Треска",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Треску посолить, поперчить.\n2. Запекать 20 минут при 190°C.\n3. Сбрызнуть маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Треска с картофелем",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Треска",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Треску обжарить.\n2. Картофель отварить.\n3. Подать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Треска с овощами",
+		"calories": 280,
+		"ingredients": [
+			{
+				"name": "Треска",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Треску запечь.\n2. Овощи припустить.\n3. Подать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Минтай запечённый",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Минтай",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Минтай посолить и поперчить.\n2. Запекать 20 минут при 190°C.\n3. Сбрызнуть маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Минтай с рисом",
+		"calories": 420,
+		"ingredients": [
+			{
+				"name": "Минтай",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Минтай обжарить.\n2. Рис отварить.\n3. Подать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Хек тушёный с овощами",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Хек",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Хек нарезать.\n2. Обжарить с морковью, луком и помидорами.\n3. Тушить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Камбала запечённая",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Камбала",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Тимьян",
+				"amount": 2,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Камбалу посолить и поперчить.\n2. Запекать 25 минут при 190°C.\n3. Сбрызнуть маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Скумбрия запечённая",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Скумбрия",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Розмарин",
+				"amount": 2,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Скумбрию натереть специями.\n2. Запекать 25 минут при 200°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Сельдь с картофелем",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Сельдь",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Картофель",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Лук красный",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сельдь нарезать кусочками.\n2. Картофель отварить.\n3. Подать с красным луком и маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Сардины с овощами",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Сардина",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сардины обжарить.\n2. Помидоры и огурцы нарезать.\n3. Полить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Анчоусы с салатом",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Анчоус",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Анчоусы обжарить.\n2. Выложить на листья салата с помидорами.\n3. Полить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Рыбные котлеты",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Рыба белая",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Мука пшеничная",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рыбу перекрутить.\n2. Смешать с яйцом, мукой и луком.\n3. Сформировать котлеты и обжарить.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Рыба на пару",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Рыба белая",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рыбу выложить на решётку пароварки.\n2. Готовить 15 минут.\n3. Посыпать укропом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Креветки на гриле",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Креветка",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Креветки замариновать с чесноком и маслом.\n2. Обжарить на гриле по 2 минуты с каждой стороны.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Креветки с рисом",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Креветка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Креветки обжарить.\n2. Рис отварить.\n3. Соединить и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Креветки в кокосовом молоке",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Креветка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко кокосовое",
+				"amount": 150,
+				"units": "мл."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить лук и чеснок.\n2. Влить кокосовое молоко.\n3. Добавить креветки, тушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Мидии с чесноком",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Мидия",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Петрушка листовая",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Мидии промыть.\n2. Обжарить с чесноком и петрушкой 5 минут.\n3. Сбрызнуть маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Мидии в томатном соусе",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Мидия",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить чеснок.\n2. Добавить помидоры, тушить 10 минут.\n3. Положить мидии и тушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Устрицы",
+		"calories": 100,
+		"ingredients": [
+			{
+				"name": "Устрица",
+				"amount": 6,
+				"units": "шт."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Устрицы открыть и промыть.\n2. Подать охлаждёнными.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Гребешки на гриле",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Гребешок",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Гребешки обсушить.\n2. Обжарить на гриле по 2 минуты с каждой стороны.\n3. Полить маслом с чесноком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Кальмар на гриле",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Кальмар",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кальмар нарезать кольцами.\n2. Обжарить на гриле 2 минуты.\n3. Посыпать чесноком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Кальмар в сметане",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Кальмар",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Сметана",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить лук.\n2. Добавить кальмара.\n3. Влить сметану, тушить 5 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Осьминог на гриле",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Осьминог",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Осьминога отварить.\n2. Обжарить на гриле по 3 минуты.\n3. Полить маслом с чесноком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Краб с салатом",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Краб",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Мясо краба разобрать.\n2. Смешать с листовым салатом и помидорами.\n3. Заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Лангустины на гриле",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Лангустин",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Лангустины разрезать вдоль.\n2. Обжарить на гриле 2–3 минуты.\n3. Полить маслом с чесноком.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Плов с говядиной",
+		"calories": 700,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Рис белый",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло подсолнечное",
+				"amount": 20,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину обжарить с луком и морковью.\n2. Добавить рис и воду.\n3. Томить под крышкой 30 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Ризотто с грибами",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Рис круглозёрный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Гриб шампиньон",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр пармезан",
+				"amount": 20,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить лук и грибы.\n2. Добавить рис, подливать воду.\n3. В конце добавить пармезан и масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Гречка с грибами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Каша гречневая",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Гриб шампиньон",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Гречку отварить.\n2. Грибы обжарить с луком.\n3. Соединить и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Гречка с курицей и луком",
+		"calories": 520,
+		"ingredients": [
+			{
+				"name": "Гречка",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу обжарить с луком.\n2. Гречку отварить.\n3. Смешать с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Булгур с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Булгур",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Булгур отварить.\n2. Овощи обжарить.\n3. Смешать и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Кускус с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Кускус",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кускус залить кипятком.\n2. Обжарить овощи.\n3. Смешать и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Киноа с овощами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Каша киноа",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Киноа отварить.\n2. Овощи обжарить.\n3. Смешать и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Рис с овощами",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Рис белый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Горох зелёный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рис отварить.\n2. Обжарить овощи.\n3. Смешать и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Рис с креветками и овощами",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Рис белый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Креветка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Горох зелёный",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рис отварить.\n2. Обжарить креветки с овощами.\n3. Смешать с рисом и кунжутным маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Рис с тунцом",
+		"calories": 480,
+		"ingredients": [
+			{
+				"name": "Рис белый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Тунец",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рис отварить.\n2. Тунец обжарить.\n3. Добавить огурец и кунжутное масло.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Рис с курицей и яйцом",
+		"calories": 550,
+		"ingredients": [
+			{
+				"name": "Рис белый",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Яйцо куриное",
+				"amount": 1,
+				"units": "шт."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Горох зелёный",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рис отварить.\n2. Курицу и овощи обжарить.\n3. Добавить яйцо и рис, перемешать.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Булгур с курицей",
+		"calories": 500,
+		"ingredients": [
+			{
+				"name": "Булгур",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Булгур отварить.\n2. Курицу обжарить с луком и морковью.\n3. Соединить.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Кускус с креветками",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Кускус",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Креветка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Кускус запарить.\n2. Креветки обжарить с помидорами.\n3. Соединить и заправить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Авокадо с креветками",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Авокадо",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Креветка",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 60,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Авокадо нарезать.\n2. Креветки отварить.\n3. Выложить на салат.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Помидоры с моцареллой",
+		"calories": 320,
+		"ingredients": [
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр моцарелла",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Базилик",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Помидоры нарезать кружками.\n2. Выложить моцареллу.\n3. Посыпать базиликом и полить маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Овощные палочки с хумусом",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Сельдерей стеблевой",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Нут",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Нут пробить блендером с маслом и чесноком.\n2. Морковь, огурец и сельдерей нарезать палочками.\n3. Подать с хумусом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Сельдерей с творогом",
+		"calories": 200,
+		"ingredients": [
+			{
+				"name": "Сельдерей стеблевой",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Творог",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Укроп",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сельдерей нарезать палочками.\n2. Творог смешать с укропом.\n3. Подать вместе.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Морковь с сыром",
+		"calories": 250,
+		"ingredients": [
+			{
+				"name": "Морковь",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр твёрдый",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Морковь нарезать соломкой.\n2. Сыр нарезать кубиком.\n3. Смешать и подать.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Огурец с фетой",
+		"calories": 200,
+		"ingredients": [
+			{
+				"name": "Огурец",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр фета",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Базилик",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Огурец нарезать кружками.\n2. Посыпать фетой и базиликом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Помидоры черри с моцареллой",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Помидор черри",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр моцарелла",
+				"amount": 60,
+				"units": "гр."
+			},
+			{
+				"name": "Базилик",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Черри разрезать пополам.\n2. Добавить моцареллу и базилик.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Яйца с авокадо",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Авокадо",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 50,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Яйца сварить вкрутую.\n2. Авокадо нарезать.\n3. Выложить на листья салата.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Яйца с тунцом",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Яйцо куриное",
+				"amount": 2,
+				"units": "шт."
+			},
+			{
+				"name": "Тунец",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Салат листовой",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Яйца сварить.\n2. Тунец размять.\n3. Подать на листьях салата с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			}
+		]
+	},
+	{
+		"name": "Сырная тарелка",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Сыр твёрдый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр мягкий",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Сыр козий",
+				"amount": 30,
+				"units": "гр."
+			},
+			{
+				"name": "Семя кунжутное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Сыры нарезать ломтиками.\n2. Выложить на доску.\n3. Посыпать кунжутом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Авокадо с семечками",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Авокадо",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Семя тыквенное",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Семя подсолнечное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Авокадо разрезать пополам.\n2. Посыпать семечками и солью.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Протеиновый смузи",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Творог",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Семя льняное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Смешать в блендере творог, молоко и семена льна.\n2. Взбить до однородности.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 15
+				}
+			}
+		]
+	},
+	{
+		"name": "Смузи с кефиром и огурцом",
+		"calories": 130,
+		"ingredients": [
+			{
+				"name": "Кефир",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Огурец",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Шпинат",
+				"amount": 30,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Все ингредиенты взбить в блендере.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Смузи с греческим йогуртом",
+		"calories": 300,
+		"ingredients": [
+			{
+				"name": "Йогурт греческий",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко овсяное",
+				"amount": 100,
+				"units": "мл."
+			},
+			{
+				"name": "Семя тыквенное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Смешать йогурт, овсяное молоко и семечки в блендере.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 12
+				}
+			}
+		]
+	},
+	{
+		"name": "Кефир с авокадо",
+		"calories": 220,
+		"ingredients": [
+			{
+				"name": "Кефир",
+				"amount": 200,
+				"units": "мл."
+			},
+			{
+				"name": "Авокадо",
+				"amount": 60,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Авокадо пюрировать.\n2. Смешать с кефиром.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 4
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 13
+				}
+			}
+		]
+	},
+	{
+		"name": "Запечённая говядина с овощами",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Говядина",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Перец болгарский",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Говядину нарезать кусками.\n2. Выложить на противень с овощами.\n3. Запекать 60 минут при 180°C.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 7
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица с грибами в сметане",
+		"calories": 480,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Гриб шампиньон",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Сметана",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу обжарить.\n2. Добавить грибы и лук.\n3. Влить сметану, тушить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			}
+		]
+	},
+	{
+		"name": "Индейка с белыми грибами",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Индейка",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Гриб белый",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Индейку обжарить.\n2. Добавить грибы и лук.\n3. Тушить 20 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 8
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица в томатном соусе",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Базилик",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Курицу обжарить.\n2. Добавить помидоры, чеснок, базилик.\n3. Тушить 20 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Рыба в томатном соусе",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Рыба белая",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 5,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Рыбу обжарить.\n2. Добавить помидоры, лук, чеснок.\n3. Тушить 10 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Курица в кокосовом молоке",
+		"calories": 450,
+		"ingredients": [
+			{
+				"name": "Курица",
+				"amount": 150,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко кокосовое",
+				"amount": 150,
+				"units": "мл."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Перец чили",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить лук и чеснок.\n2. Добавить курицу и чили.\n3. Влить кокосовое молоко, тушить 20 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 6
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 9
+				}
+			}
+		]
+	},
+	{
+		"name": "Рыба в кокосовом молоке",
+		"calories": 400,
+		"ingredients": [
+			{
+				"name": "Рыба белая",
+				"amount": 200,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко кокосовое",
+				"amount": 150,
+				"units": "мл."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Чеснок",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить лук и чеснок.\n2. Влить кокосовое молоко.\n3. Добавить рыбу, тушить 10 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 16
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 17
+				}
+			}
+		]
+	},
+	{
+		"name": "Тыквенный крем-суп с семечками",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Тыква",
+				"amount": 300,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко кокосовое",
+				"amount": 100,
+				"units": "мл."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Семя тыквенное",
+				"amount": 10,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Тыкву и лук потушить.\n2. Влить кокосовое молоко, пробить блендером.\n3. Посыпать тыквенными семечками.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	},
+	{
+		"name": "Грибной крем-суп",
+		"calories": 350,
+		"ingredients": [
+			{
+				"name": "Гриб шампиньон",
+				"amount": 250,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Молоко коровье",
+				"amount": 100,
+				"units": "мл."
+			},
+			{
+				"name": "Масло сливочное",
+				"amount": 10,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Обжарить грибы с луком.\n2. Добавить молоко, проварить 10 минут.\n3. Пробить блендером с маслом.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			},
+			{
+				"dish_types_id": {
+					"id": 5
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": [
+			{
+				"dish_categories_id": {
+					"id": 11
+				}
+			},
+			{
+				"dish_categories_id": {
+					"id": 14
+				}
+			}
+		]
+	},
+	{
+		"name": "Овощной суп с белой фасолью",
+		"calories": 380,
+		"ingredients": [
+			{
+				"name": "Фасоль белая",
+				"amount": 80,
+				"units": "гр."
+			},
+			{
+				"name": "Кабачок",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Морковь",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Лук репчатый",
+				"amount": 50,
+				"units": "гр."
+			},
+			{
+				"name": "Помидор",
+				"amount": 100,
+				"units": "гр."
+			},
+			{
+				"name": "Масло оливковое",
+				"amount": 5,
+				"units": "гр."
+			}
+		],
+		"status": "published",
+		"recipe": "1. Фасоль отварить.\n2. Добавить кабачок, морковь, лук, помидор.\n3. Варить 15 минут.",
+		"dish_types": [
+			{
+				"dish_types_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_targets": [
+			{
+				"dish_targets_id": {
+					"id": 1
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 2
+				}
+			},
+			{
+				"dish_targets_id": {
+					"id": 3
+				}
+			}
+		],
+		"dish_categories": []
+	}
+]
