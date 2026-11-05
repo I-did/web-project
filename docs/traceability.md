@@ -1,17 +1,18 @@
 # Матрица трассируемости требований
 
-Документ связывает бизнес-требования, критерии приёмки, функциональные и нефункциональные требования, User Stories и тест-кейсы. Формулировки требований не дублируются — приведены только идентификаторы.
+Источники: [БТ](requirements/business.md) · [ФТ](requirements/functional.md) · [НФТ](requirements/non-functional.md) · [US](user-stories.md) · [Тесты](tests/test-cases.md).
 
-**Источники:** [БТ и КП-БТ](requirements/business.md) · [ФТ и КП-ФТ](requirements/functional.md) · [НФТ и КП-НФТ](requirements/non-functional.md) · [User Stories](user-stories.md) · [Тест-кейсы](tests/test-cases.md).
+Матрица хранит только ID и ссылки; исходные формулировки остаются в реестрах. Статус MVP/последующей итерации — в [business.md](requirements/business.md). 
+Тесты отложенных требований описаны, но не объявляются выполненными.
 
-## Расширенная матрица БТ → КП-БТ → ФТ/КП-ФТ → НФТ/КП-НФТ → US → тесты
+## Матрица БТ → КП-БТ → ФТ / КП-ФТ → НФТ / КП-НФТ → US → тесты
 
-| БТ | КП-БТ | ФТ | КП-ФТ | НФТ | КП-НФТ | US | Тесты T / TN | Ответственные (из старой матрицы) |
+| БТ | КП-БТ | ФТ | КП-ФТ | НФТ | КП-НФТ | US | T / TN | Ответственные (предварительно) |
 |---|---|---|---|---|---|---|---|---|
-| [БТ‑01](requirements/business.md#bt-01) | [КП-БТ‑01](requirements/business.md#kp-bt-01) | ФТ‑01, ФТ‑27 | [КП-ФТ‑27](requirements/functional.md#kp-ft-27) | НФТ‑01, НФТ‑02, НФТ‑08 | [КП-НФТ‑01](requirements/non-functional.md#kp-nft-01), [КП-НФТ‑02](requirements/non-functional.md#kp-nft-02), [КП-НФТ‑08](requirements/non-functional.md#kp-nft-08) | US-01 | [T-01](tests/test-cases.md), [T-25](tests/test-cases.md), [TN-01](tests/test-cases.md), [TN-02](tests/test-cases.md), [TN-08](tests/test-cases.md) | Бизнес-аналитик, владелец продукта |
+| [БТ‑01](requirements/business.md#bt-01) | [КП-БТ‑01](requirements/business.md#kp-bt-01) | ФТ‑01, ФТ‑27, ФТ‑38 | [КП-ФТ‑27](requirements/functional.md#kp-ft-27), [КП-ФТ‑38](requirements/functional.md#kp-ft-38) | НФТ‑01, НФТ‑02, НФТ‑08 | [КП-НФТ‑01](requirements/non-functional.md#kp-nft-01), [КП-НФТ‑02](requirements/non-functional.md#kp-nft-02), [КП-НФТ‑08](requirements/non-functional.md#kp-nft-08) | US-01 | [T-01](tests/test-cases.md), [T-25](tests/test-cases.md), [T-34](tests/test-cases.md), [TN-01](tests/test-cases.md), [TN-02](tests/test-cases.md), [TN-08](tests/test-cases.md) | Бизнес-аналитик, владелец продукта |
 | [БТ‑02](requirements/business.md#bt-02) | [КП-БТ‑02](requirements/business.md#kp-bt-02) | ФТ‑02 | — | НФТ‑03 | [КП-НФТ‑03](requirements/non-functional.md#kp-nft-03) | US-02 | [T-02](tests/test-cases.md), [TN-03](tests/test-cases.md) | Бизнес-аналитик |
 | [БТ‑03](requirements/business.md#bt-03) | [КП-БТ‑03](requirements/business.md#kp-bt-03) | ФТ‑03 | — | НФТ‑03 | [КП-НФТ‑03](requirements/non-functional.md#kp-nft-03) | US-03 | [T-03](tests/test-cases.md), [TN-03](tests/test-cases.md) | Бизнес-аналитик, владелец продукта |
-| [БТ‑04](requirements/business.md#bt-04) | [КП-БТ‑04](requirements/business.md#kp-bt-04) | ФТ‑04 | — | — | — | US-04 | [T-04](tests/test-cases.md) | Бизнес-аналитик, CTO |
+| [БТ‑04](requirements/business.md#bt-04) | [КП-БТ‑04](requirements/business.md#kp-bt-04) | ФТ‑04, ФТ‑37 | [КП-ФТ‑37](requirements/functional.md#kp-ft-37) | — | — | US-04 | [T-04](tests/test-cases.md), [T-33](tests/test-cases.md) | Бизнес-аналитик, CTO |
 | [БТ‑05](requirements/business.md#bt-05) | [КП-БТ‑05](requirements/business.md#kp-bt-05) | ФТ‑05 | — | НФТ‑06, НФТ‑08 | [КП-НФТ‑06](requirements/non-functional.md#kp-nft-06), [КП-НФТ‑08](requirements/non-functional.md#kp-nft-08) | US-05 | [T-05](tests/test-cases.md), [TN-06](tests/test-cases.md), [TN-08](tests/test-cases.md) | Бизнес-аналитик, владелец продукта |
 | [БТ‑06](requirements/business.md#bt-06) | [КП-БТ‑06](requirements/business.md#kp-bt-06) | ФТ‑06 | — | — | — | US-06 | [T-06](tests/test-cases.md) | Бизнес-аналитик |
 | [БТ‑07](requirements/business.md#bt-07) | [КП-БТ‑07](requirements/business.md#kp-bt-07) | ФТ‑07 | — | — | — | US-06 | [T-07](tests/test-cases.md) | Бизнес-аналитик |
@@ -30,21 +31,21 @@
 | [БТ‑20](requirements/business.md#bt-20) | [КП-БТ‑20](requirements/business.md#kp-bt-20) | ФТ‑24 | — | НФТ‑04 | [КП-НФТ‑04](requirements/non-functional.md#kp-nft-04) | US-16 | [T-20](tests/test-cases.md), [TN-04](tests/test-cases.md) | Бизнес-аналитик, владелец продукта |
 | [БТ‑21](requirements/business.md#bt-21) | [КП-БТ‑21](requirements/business.md#kp-bt-21) | ФТ‑25 | — | НФТ‑06 | [КП-НФТ‑06](requirements/non-functional.md#kp-nft-06) | US-17 | [T-21](tests/test-cases.md), [TN-06](tests/test-cases.md) | Владелец продукта, бизнес-аналитик |
 | [БТ‑22](requirements/business.md#bt-22) | [КП-БТ‑22](requirements/business.md#kp-bt-22) | ФТ‑26 | — | НФТ‑06 | [КП-НФТ‑06](requirements/non-functional.md#kp-nft-06) | US-18 | [T-22](tests/test-cases.md), [TN-06](tests/test-cases.md) | Владелец продукта, бизнес-аналитик, CTO |
+| [БТ‑23](requirements/business.md#bt-23) | [КП-БТ‑23](requirements/business.md#kp-bt-23) | ФТ‑29, ФТ‑30 | — | НФТ‑09 | [КП-НФТ‑09](requirements/non-functional.md#kp-nft-09) | US-19 | [T-27](tests/test-cases.md), [TN-09](tests/test-cases.md) | Владелец продукта, CTO, бизнес-аналитик |
+| [БТ‑24](requirements/business.md#bt-24) | [КП-БТ‑24](requirements/business.md#kp-bt-24) | ФТ‑31, ФТ‑32 | [КП-ФТ‑32](requirements/functional.md#kp-ft-32) | НФТ‑09 | [КП-НФТ‑09](requirements/non-functional.md#kp-nft-09) | US-20 | [T-28](tests/test-cases.md), [T-32](tests/test-cases.md), [TN-09](tests/test-cases.md) | Владелец продукта, CTO, бизнес-аналитик |
+| [БТ‑25](requirements/business.md#bt-25) | [КП-БТ‑25](requirements/business.md#kp-bt-25) | ФТ‑33, ФТ‑34 | — | — | — | US-21 | [T-29](tests/test-cases.md) | Менеджер проекта, CTO, бизнес-аналитик |
+| [БТ‑26](requirements/business.md#bt-26) | [КП-БТ‑26](requirements/business.md#kp-bt-26) | ФТ‑35 | — | НФТ‑09 | [КП-НФТ‑09](requirements/non-functional.md#kp-nft-09) | US-22 | [T-30](tests/test-cases.md), [TN-09](tests/test-cases.md) | Менеджер проекта, CTO, бизнес-аналитик |
+| [БТ‑27](requirements/business.md#bt-27) | [КП-БТ‑27](requirements/business.md#kp-bt-27) | ФТ‑36 | — | — | — | US-23 | [T-31](tests/test-cases.md) | Владелец продукта, CTO, бизнес-аналитик |
 
-**Правило чтения:** строка соответствует одному БТ. НФТ может относиться сразу к нескольким БТ, а одна US — объединять несколько БТ, поэтому идентификаторы повторяются. Для ФТ без собственного КП-ФТ применяется критерий КП-БТ родительского БТ. Тест T на КП-БТ покрывает сам критерий; дополнительные T проверяют только отдельные КП-ФТ.
+## Проверка полноты
 
-## Контроль покрытия
+- БТ: 27/27; КП-БТ: 27/27.
+- ФТ: 38/38 со связью с БТ; дополнительные КП-ФТ: 7/7.
+- НФТ: 9/9 со связями с БТ; КП-НФТ: 9/9.
+- User Stories: 23/23; каждый БТ сопоставлен минимум одной истории.
+- Тесты: T-01…T-34 и TN-01…TN-09; каждый критерий приёмки сопоставлен тест-кейсу.
+- НФТ и тесты нескольких БТ намеренно повторяются в строках — это связи «многие ко многим».
 
-| Объект | Количество в источниках | Отражено в матрице |
-|---|---:|---:|
-| БТ | 22 | 22 |
-| КП-БТ | 22 | 22 |
-| ФТ | 28 | 28 |
-| КП-ФТ | 4 | 4 |
-| НФТ | 8 | 8 |
-| КП-НФТ | 8 | 8 |
-| US | 18 | 18 |
-| T | 26 | 26 |
-| TN | 8 | 8 |
+## Примечание о статусе
 
-Все 22 БТ связаны хотя бы с одной US и функциональным требованием. Все 18 US включены в матрицу. Нет ФТ или НФТ без связанного БТ.
+Распределение новых БТ‑23…БТ‑27 по ролям — предварительное предложение. В старой матрице были только БТ‑01…БТ‑22. Требования Post-MVP не исключаются из матрицы.
