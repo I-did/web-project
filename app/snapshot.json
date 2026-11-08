@@ -600,9 +600,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "slug"
-          ],
+          "special": ["slug"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -648,9 +646,7 @@
           "required": false,
           "searchable": true,
           "sort": 4,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -786,9 +782,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "slug"
-          ],
+          "special": ["slug"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -924,9 +918,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "slug"
-          ],
+          "special": ["slug"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -1126,9 +1118,7 @@
           "required": false,
           "searchable": true,
           "sort": 4,
-          "special": [
-            "slug"
-          ],
+          "special": ["slug"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -1278,9 +1268,7 @@
           "required": false,
           "searchable": true,
           "sort": 8,
-          "special": [
-            "m2m"
-          ],
+          "special": ["m2m"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -1310,9 +1298,7 @@
           "required": false,
           "searchable": true,
           "sort": 9,
-          "special": [
-            "m2m"
-          ],
+          "special": ["m2m"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -1342,9 +1328,7 @@
           "required": false,
           "searchable": true,
           "sort": 10,
-          "special": [
-            "m2m"
-          ],
+          "special": ["m2m"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2278,9 +2262,7 @@
           "required": false,
           "searchable": true,
           "sort": 5,
-          "special": [
-            "cast-json"
-          ],
+          "special": ["cast-json"],
           "translations": [
             {
               "language": "ru-RU",
@@ -2373,9 +2355,7 @@
           "required": false,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2419,9 +2399,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2509,9 +2487,7 @@
           "required": false,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2555,9 +2531,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2645,9 +2619,7 @@
           "required": false,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2691,9 +2663,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2938,9 +2908,7 @@
           "required": true,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -2986,9 +2954,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -3190,9 +3156,7 @@
           "required": true,
           "searchable": true,
           "sort": 7,
-          "special": [
-            "m2m"
-          ],
+          "special": ["m2m"],
           "translations": [
             {
               "language": "ru-RU",
@@ -3401,9 +3365,7 @@
           "required": true,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -3449,9 +3411,7 @@
           "required": false,
           "searchable": true,
           "sort": 3,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -4034,9 +3994,7 @@
           "required": false,
           "searchable": true,
           "sort": 16,
-          "special": [
-            "cast-json"
-          ],
+          "special": ["cast-json"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -4925,9 +4883,7 @@
           "required": false,
           "searchable": true,
           "sort": 16,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -5193,9 +5149,7 @@
           "required": true,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -5301,9 +5255,7 @@
           "required": true,
           "searchable": true,
           "sort": 4,
-          "special": [
-            "cast-json"
-          ],
+          "special": ["cast-json"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -5349,9 +5301,7 @@
           "required": false,
           "searchable": true,
           "sort": 5,
-          "special": [
-            "cast-json"
-          ],
+          "special": ["cast-json"],
           "translations": null,
           "validation": null,
           "validation_message": null,
@@ -5573,9 +5523,7 @@
           "required": true,
           "searchable": true,
           "sort": 2,
-          "special": [
-            "m2o"
-          ],
+          "special": ["m2o"],
           "translations": [
             {
               "language": "ru-RU",
