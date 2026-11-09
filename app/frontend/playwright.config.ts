@@ -2,48 +2,48 @@ import process from 'node:process';
 import { defineConfig, devices } from '@playwright/test';
 
 /**
- * Read environment variables from file.
+ * При необходимости переменные окружения можно загрузить из файла.
  * https://github.com/motdotla/dotenv
  */
 // require('dotenv').config();
 
 /**
- * See https://playwright.dev/docs/test-configuration.
+ * Документация по настройке Playwright: https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
   testDir: './e2e',
-  /* Maximum time one test can run for. */
+  /* Максимальное время выполнения одного теста. */
   timeout: 30 * 1000,
   expect: {
     /**
-     * Maximum time expect() should wait for the condition to be met.
-     * For example in `await expect(locator).toHaveText();`
+     * Максимальное время ожидания условия в expect().
+     * Например, при проверке текста через expect().
      */
     timeout: 5000,
   },
-  /* Fail the build on CI if you accidentally left test.only in the source code. */
+  /* В CI запрещён запуск тестов с test.only. */
   forbidOnly: !!process.env.CI,
-  /* Retry on CI only */
+  /* Повторные попытки запуска — только в CI. */
   retries: process.env.CI ? 2 : 0,
-  /* Opt out of parallel tests on CI. */
+  /* В CI тесты запускаются последовательно. */
   workers: process.env.CI ? 1 : undefined,
-  /* Reporter to use. See https://playwright.dev/docs/test-reporters */
+  /* Формат отчёта о тестах: https://playwright.dev/docs/test-reporters */
   reporter: 'html',
-  /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
+  /* Общие настройки для всех браузеров. */
   use: {
-    /* Maximum time each action such as `click()` can take. Defaults to 0 (no limit). */
+    /* Максимальное время действия (0 — без ограничения). */
     actionTimeout: 0,
-    /* Base URL to use in actions like `await page.goto('/')`. */
+    /* Базовый адрес приложения для тестов. */
     baseURL: process.env.CI ? 'http://localhost:4173' : 'http://localhost:5173',
 
-    /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
+    /* При повторном запуске теста сохраняется трассировка. */
     trace: 'on-first-retry',
 
-    /* Only on CI systems run the tests headless */
+    /* В CI браузер запускается без интерфейса. */
     headless: !!process.env.CI,
   },
 
-  /* Configure projects for major browsers */
+  /* Настройки тестирования в основных браузерах. */
   projects: [
     {
       name: 'chromium',
@@ -64,7 +64,7 @@ export default defineConfig({
       },
     },
 
-    /* Test against mobile viewports. */
+    /* Дополнительные тесты на мобильных размерах экрана (пока отключены). */
     // {
     //   name: 'Mobile Chrome',
     //   use: {
@@ -78,7 +78,7 @@ export default defineConfig({
     //   },
     // },
 
-    /* Test against branded browsers. */
+    /* Дополнительные браузеры для тестирования (пока отключены). */
     // {
     //   name: 'Microsoft Edge',
     //   use: {
@@ -93,15 +93,15 @@ export default defineConfig({
     // },
   ],
 
-  /* Folder for test artifacts such as screenshots, videos, traces, etc. */
+  /* Папка для отчётов, скриншотов и других результатов тестирования. */
   // outputDir: 'test-results/',
 
-  /* Run your local dev server before starting the tests */
+  /* Перед тестами запускается локальный сервер приложения. */
   webServer: {
     /**
-     * Use the dev server by default for faster feedback loop.
-     * Use the preview server on CI for more realistic testing.
-     * Playwright will re-use the local server if there is already a dev-server running.
+     * Локально используется сервер разработки для быстрого запуска.
+     * В CI используется сервер предварительного просмотра сборки.
+     * Playwright использует уже запущенный локальный сервер, если он доступен.
      */
     command: process.env.CI ? 'npm run preview' : 'npm run dev',
     port: process.env.CI ? 4173 : 5173,
