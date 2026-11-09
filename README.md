@@ -1,5 +1,21 @@
 # Учебный проект
 
+## Как запустить
+
+```cmd
+git clone https://github.com/I-did/web-project.git
+cd web-project
+docker compose up -d
+cd app/frontend
+npm i
+npm run dev
+cd ../
+# Скопировать snapshot внутрь контейнера и накатить схему на directus
+docker compose cp ./snapshot.json directus:/directus/snapshot.json
+docker compose exec directus npx directus schema apply --yes /directus/snapshot.json
+```
+Импортировать вручную через админку dish_*.json и в конце dishes.json
+
 - [Описание проекта](#описание-проекта)
 - [Контекст и проблематика](#контекст-и-проблематика)
 - [Видение, миссия, преимущества, амбиции проекта](#видение-миссия-преимущества-амбиции-проекта)
