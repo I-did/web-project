@@ -65,13 +65,22 @@ function back() {
   submissionError.value = '';
   store.back();
 }
+function getFieldValue(id: string): string | number {
+  const value = store.answers[id];
+
+  if (typeof value === 'string' || typeof value === 'number') {
+    return value;
+  }
+
+  return '';
+}
 </script>
 <template>
   <section class="wizard-section">
     <div class="container wizard-container">
       <div class="wizard-top">
         <RouterLink to="/" class="back-link">← На главную</RouterLink
-        ><span class="wizard-top__caption">ТВОЙ ПЕРСОНАЛЬНЫЙ ПЛАН</span>
+        ><span class="wizard-top__caption">АНКЕТА КБЖУ</span>
       </div>
       <div class="wizard-progress">
         <div class="wizard-progress__label">
@@ -93,12 +102,12 @@ function back() {
             :label="field.label"
             type="number"
             required
-            :model-value="store.answers[field.id] ?? ''"
+            :model-value="getFieldValue(field.id)"
             :placeholder="field.placeholder"
             :min="field.min"
             :max="field.max"
             :unit="field.unit"
-            @update:model-value="(v) => updateField(field.id, v)"
+            @update:model-value="(value) => updateField(field.id, value)"
           />
         </div>
         <div v-else class="choices">
@@ -121,9 +130,10 @@ function back() {
         ><StatusMessage v-if="submissionError" type="error">{{ submissionError }}</StatusMessage>
         <div class="wizard-actions">
           <button class="back-link" :disabled="store.index === 0 || store.loading" @click="back">← Назад</button
-          ><BaseButton v-if="current.type !== 'single'" :loading="store.loading" @click="next"
-            >{{ store.isLast ? 'Получить мой план' : 'Продолжить' }} <span aria-hidden="true">→</span></BaseButton
-          ><span v-else class="wizard-auto">Нажмите на вариант, чтобы продолжить →</span>
+          ><BaseButton v-if="current.type !== 'single'" :loading="store.loading" @click="next">{{
+            store.isLast ? 'Получить мой план' : 'Продолжить'
+          }}</BaseButton
+          ><span v-else class="wizard-auto">Нажмите на вариант для перехода</span>
         </div>
       </div>
       <p class="wizard-footnote">Ваши ответы отправляются на сервер только после завершения анкеты.</p>

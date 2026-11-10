@@ -13,12 +13,12 @@ const items = computed(() => (Array.isArray(plan.value) ? plan.value : []));
     <RouterLink to="/dashboard" class="back-link">← В личный кабинет</RouterLink>
     <div class="section-heading">
       <span class="eyebrow">ТВОЙ РАЦИОН</span>
-      <h1>Питание, которое<br /><em>подходит тебе.</em></h1>
+      <h1>План питания</h1>
     </div>
     <div v-if="!result" class="empty-panel">
       <h2>План пока не сформирован</h2>
       <p>Для начала пройди анкету и получи свой расчёт.</p>
-      <RouterLink to="/questionnaire" class="btn btn--primary">Заполнить анкету →</RouterLink>
+      <RouterLink to="/questionnaire" class="btn btn--primary">Заполнить анкету</RouterLink>
     </div>
     <template v-else
       ><div class="week-tabs" role="group" aria-label="Выбор недели">

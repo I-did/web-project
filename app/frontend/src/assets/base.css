@@ -1,7 +1,8 @@
-/* Design tokens: replace with Figma variables when the team's UI kit is ready. */
 :root {
-  --color-primary: #294a37;
-  --color-accent: #c9e48a;
-  --color-surface: #f7f7f2;
-  --color-text: #242e28;
+  --primary: #315c4c;
+  --primary-light: #e8f0eb;
+  --background: #f7f8f7;
+  --text: #26332d;
+  --muted: #65736a;
+  --border: #d6dfd9;
 }

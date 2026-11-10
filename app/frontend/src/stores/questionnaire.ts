@@ -23,12 +23,17 @@ export const useQuestionnaireStore = defineStore('questionnaire', () => {
     if (id === 'gender' && value !== 'female') delete answers.value.breastfeeding_children;
     if (id === 'excluded_categories') {
       const list = Array.isArray(value) ? value : [];
-      for (const [category, child] of [
+      const excludedCategories: [string, string][] = [
         ['myaso', 'excluded_meat_products'],
         ['molochnye-produkty', 'excluded_milk_products'],
         ['ryba', 'excluded_fish_products'],
-      ])
-        if (!list.includes(category)) delete answers.value[child];
+      ];
+
+      for (const [category, child] of excludedCategories) {
+        if (!list.includes(category)) {
+          delete answers.value[child];
+        }
+      }
     }
   }
   function next() {
