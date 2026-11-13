@@ -6,9 +6,7 @@ import AppHeader from './components/layout/AppHeader.vue';
     <AppHeader />
     <main id="main-content"><RouterView /></main>
     <footer class="site-footer">
-      <div class="container footer-inner">
-        <span>© 2026 форма. 4 недели заботы о себе</span><span>Учебный проект · интерфейс MVP</span>
-      </div>
+      <div class="container footer-inner">КБЖУ · Учебный проект, 2026</div>
     </footer>
   </div>
 </template>

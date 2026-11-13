@@ -31,9 +31,8 @@ async function submit() {
 <template>
   <section class="auth-section">
     <div class="auth-aside">
-      <span class="eyebrow">СНОВА ВМЕСТЕ</span>
-      <h2>Каждый день —<br /><em>маленький шаг</em><br />к себе.</h2>
-      <div class="auth-art">✳</div>
+      <span class="eyebrow">ВХОД В СИСТЕМУ</span>
+      <h2>Личный кабинет КБЖУ</h2>
     </div>
     <div class="auth-content">
       <div class="auth-form">
@@ -58,7 +57,7 @@ async function submit() {
             placeholder="Ваш пароль"
             required
           /><StatusMessage v-if="error" type="error">{{ error }}</StatusMessage
-          ><BaseButton type="submit" :loading="auth.loading">Войти в кабинет <span>→</span></BaseButton>
+          ><BaseButton type="submit" :loading="auth.loading">Войти в кабинет</BaseButton>
         </form>
         <p class="auth-note">Ещё нет аккаунта? <RouterLink to="/payment">Начните с оформления участия</RouterLink>.</p>
       </div>

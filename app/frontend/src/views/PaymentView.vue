@@ -71,7 +71,7 @@ async function submit() {
       'charge',
       {
         publicId: import.meta.env.VITE_CLOUDPAYMENTS_PUBLIC_ID,
-        description: 'Участие в фитнес-марафоне',
+        description: 'Участие в программе КБЖУ',
         amount: order.amount / 100,
         currency: 'RUB',
         invoiceId: order.invoice_id,
@@ -108,8 +108,8 @@ async function submit() {
 <template>
   <section class="payment-section container">
     <div class="payment-intro">
-      <span class="eyebrow">ТВОЙ НОВЫЙ МАРШРУТ</span>
-      <h1>Начнём с<br /><em>первого шага.</em></h1>
+      <span class="eyebrow">О ПРОГРАММЕ</span>
+      <h1>Оформление участия</h1>
       <p>Оформите участие, и после подтверждения оплаты вы получите приглашение для входа.</p>
       <div class="payment-benefits">
         <div>✓ План питания на четыре недели</div>
@@ -145,7 +145,7 @@ async function submit() {
             >Я согласен(на) на обработку персональных данных</span
           ></label
         ><StatusMessage v-if="error" type="error">{{ error }}</StatusMessage
-        ><BaseButton type="submit" :loading="busy">Перейти к оплате ↗</BaseButton
+        ><BaseButton type="submit" :loading="busy">Перейти к оплате</BaseButton
         ><span class="form-footnote">Безопасная оплата через CloudPayments. Сумма поступает с сервера.</span>
       </form>
     </div>

@@ -9,12 +9,12 @@ const result = computed(() => questionnaire.result);
     <div class="dashboard-heading">
       <div>
         <span class="eyebrow">ЛИЧНЫЙ КАБИНЕТ</span>
-        <h1>Твоя точка <em>опоры.</em></h1>
+        <h1>Личный кабинет</h1>
         <p>Здесь появится результат анкеты и твой план питания.</p>
       </div>
-      <RouterLink class="btn btn--primary" to="/questionnaire"
-        >{{ result ? 'Пройти анкету ещё раз' : 'Заполнить анкету' }} →</RouterLink
-      >
+      <RouterLink class="btn btn--primary" to="/questionnaire">{{
+        result ? 'Пройти анкету ещё раз' : 'Заполнить анкету'
+      }}</RouterLink>
     </div>
     <template v-if="result"
       ><div class="metrics">
@@ -38,10 +38,10 @@ const result = computed(() => questionnaire.result);
       <RouterLink class="dashboard-link" to="/nutrition">Открыть план питания <span>↗</span></RouterLink></template
     >
     <div v-else class="empty-panel">
-      <span class="empty-panel__icon">◒</span>
+      <span class="empty-panel__icon"></span>
       <h2>План начнётся здесь</h2>
       <p>Заполни анкету, чтобы получить рассчитанную норму КБЖУ и персональное питание на четыре недели.</p>
-      <RouterLink to="/questionnaire" class="btn btn--primary">Перейти к анкете →</RouterLink>
+      <RouterLink to="/questionnaire" class="btn btn--primary">Перейти к анкете</RouterLink>
     </div>
     <div class="upcoming-panel">
       <div>
@@ -49,7 +49,6 @@ const result = computed(() => questionnaire.result);
         <h2>Больше способов видеть прогресс</h2>
         <p>Тренировки, замеры и фото-прогресс появятся в следующих итерациях проекта.</p>
       </div>
-      <span class="upcoming-icon">✳</span>
     </div>
   </section>
 </template>

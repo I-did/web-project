@@ -40,12 +40,12 @@ async function submit() {
     <div class="paper-card">
       <span class="eyebrow">ДОБРО ПОЖАЛОВАТЬ</span>
       <h1>Активация аккаунта</h1>
-      <p>Придумайте пароль, чтобы получить доступ к вашему марафону.</p>
+      <p>Придумайте пароль, чтобы получить доступ к личному кабинету КБЖУ.</p>
       <StatusMessage v-if="!token" type="error"
         >Ссылка приглашения недействительна: отсутствует токен активации.</StatusMessage
       ><template v-else-if="success"
         ><StatusMessage type="success">Аккаунт активирован. Теперь можно войти.</StatusMessage
-        ><BaseButton @click="router.push('/login')">Перейти ко входу →</BaseButton></template
+        ><BaseButton @click="router.push('/login')">Перейти ко входу</BaseButton></template
       >
       <form v-else @submit.prevent="submit">
         <FieldInput
@@ -63,7 +63,7 @@ async function submit() {
           autocomplete="new-password"
           required
         /><StatusMessage v-if="error" type="error">{{ error }}</StatusMessage
-        ><BaseButton type="submit" :loading="busy">Активировать →</BaseButton>
+        ><BaseButton type="submit" :loading="busy">Активировать</BaseButton>
       </form>
     </div>
   </section>
